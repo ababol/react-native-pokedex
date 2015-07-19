@@ -1,5 +1,5 @@
 # react-native-pokedex
-A Simple Pokédex Application - Made with React Native
+> A simple Pokédex application - Made with React Native
 
 It is similar to the [Movie Example](https://github.com/facebook/react-native/tree/master/Examples/Movies) from Facebook.
 
