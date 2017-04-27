@@ -1,6 +1,6 @@
-# react-native-pokedex
+# react-native-pokedex [DEPRECATED]
 > A simple Pokédex application - Made with React Native
 
-It is similar to the [Movie Example](https://github.com/facebook/react-native/tree/master/Examples/Movies) from Facebook.
+It is similar to the [Movie Example](https://github.com/facebook/react-native/blob/0.27-stable/docs/SampleApplication-Movies.md) from Facebook.
 
-<img src="http://babol.me/assets/pokemon/react-native-pokedex.gif" width="333" height="595" alt="Demo Pokédex"/>
+<img src="https://raw.githubusercontent.com/ababol/react-native-pokedex/master/react-native-pokedex.gif" width="333" height="595" alt="Demo Pokédex"/>
